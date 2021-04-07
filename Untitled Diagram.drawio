@@ -1,80 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T12:03:17.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="AjMBF5p1t_kndD4r-YRP" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T13:38:22.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="BfB1Vzf2fVaG_Dd3eVTR" version="14.5.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1697" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-2" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-2" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="95" y="70" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-4" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-4" value="密码" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="60" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-5" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-5" value="密码" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="60" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-6" value="群组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-6" value="群组" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-7" value="群名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-7" value="群名" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="95" y="520" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-10" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-10" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="210" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-11" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-11" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="150" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-14" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-14" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="510" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-15" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-15" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="500" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-17" value="群头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-17" value="群头像" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="610" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-18" value="头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-18" value="头像" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="140" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-19" value="朋友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-19" value="朋友" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="705" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-20" value="用户A" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-20" value="用户A" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="80" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-21" value="用户B" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-21" value="用户B" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="50" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-22" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-22" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="835" y="70" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-23" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-23" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="845" y="160" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-25" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-25" value="状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="755" y="220" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-26" value="聊天消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-26" value="聊天消息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="705" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-27" value="发送方" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-27" value="发送方" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="440" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-28" value="接收方" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-28" value="接收方" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="410" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-29" value="是否是群消息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-29" value="是否是群消息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="835" y="430" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-30" value="消息id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-30" value="消息id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="845" y="520" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rfzxkzYXNz0C6N27dNwW-31" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rfzxkzYXNz0C6N27dNwW-31" value="状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="755" y="580" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_YOtzz9naKi3cMkrxV0r-1" value="聊天消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_YOtzz9naKi3cMkrxV0r-2" value="发送方" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="430" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_YOtzz9naKi3cMkrxV0r-3" value="接收方" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="400" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_YOtzz9naKi3cMkrxV0r-4" value="是否是群消息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="420" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_YOtzz9naKi3cMkrxV0r-5" value="消息id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="510" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_YOtzz9naKi3cMkrxV0r-6" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="570" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
